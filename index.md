@@ -4,6 +4,21 @@ You can use the [editor on GitHub](https://github.com/Summer-Qing/Summer-Qing/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+### Git Tips:
+git branch -a                             // Show all branches (include remote branches)
+
+git checkout -b gh-pages origin/gh-pages  // Pull remote branch to local
+git branch -d branch_name                 // Delete one branch
+
+git push origin gh-pages:gh-pages         // Push local gh-pages branch to remote gh-pages branch
+
+git add  /  git commit  /  git
+
+
+### Keras Tips:
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -35,3 +50,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
