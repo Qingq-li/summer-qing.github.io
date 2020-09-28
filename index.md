@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Summer-Qing/Summer-Qing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 
 ### Git Tips:
-```tips
+
+```markdown
 git branch -a                             // Show all branches (include remote branches)
 
 git checkout -b gh-pages origin/gh-pages  // Pull remote branch to local
@@ -18,6 +13,15 @@ git add  /  git commit  /  git
 ```
 
 ### Keras Tips:
+[Task1](https://summer-qing.github.io/keras/task1.html) [Task2](https://summer-qing.github.io/keras/task2.html)
+
+
+
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Summer-Qing/Summer-Qing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 ### Markdown
