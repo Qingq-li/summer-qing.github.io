@@ -18,11 +18,15 @@ git add  /  git commit  /  git
 - model.add(Dense(32, input_shape=(784,))) 等价于 model.add(Dense(32, input_dim=784))
 
 - 将标签转换为分类的 one-hot 编码:
-```
+
+
+``` markdown
 labels = np.random.randint(10, size=(1000, 1))
 
 one_hot_labels = keras.utils.to_categorical(labels, num_classes=10)
 ```
+
+
 
 ### Blog Links 
 - [Task1](https://summer-qing.github.io/keras/task1.html) [Task2](https://summer-qing.github.io/keras/task2.html)
