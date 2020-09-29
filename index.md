@@ -24,9 +24,10 @@ labels = np.random.randint(10, size=(1000, 1))
 one_hot_labels = keras.utils.to_categorical(labels, num_classes=10)
 ```
 
-[Task1](https://summer-qing.github.io/keras/task1.html) [Task2](https://summer-qing.github.io/keras/task2.html)
-[Keras Tutorial](https://summer-qing.github.io/keras/Keras_0.html)
-[keras-mnist-cnn](https://summer-qing.github.io/keras/keras-mnist-cnn.html)
+### Blog Links 
+- [Task1](https://summer-qing.github.io/keras/task1.html) [Task2](https://summer-qing.github.io/keras/task2.html)
+- [Keras Tutorial](https://summer-qing.github.io/keras/Keras_0.html)
+- [keras-mnist-cnn](https://summer-qing.github.io/keras/keras-mnist-cnn.html)
 
 ### Markdown
 
