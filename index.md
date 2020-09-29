@@ -12,8 +12,21 @@ git push origin gh-pages:gh-pages         // Push local gh-pages branch to remot
 git add  /  git commit  /  git
 ```
 
+
 ### Keras Tips:
+
+- model.add(Dense(32, input_shape=(784,))) 等价于 model.add(Dense(32, input_dim=784))
+
+- 将标签转换为分类的 one-hot 编码:
+```
+labels = np.random.randint(10, size=(1000, 1))
+
+one_hot_labels = keras.utils.to_categorical(labels, num_classes=10)
+```
+
 [Task1](https://summer-qing.github.io/keras/task1.html) [Task2](https://summer-qing.github.io/keras/task2.html)
+[Keras Tutorial](https://summer-qing.github.io/keras/Keras_0.html)
+[keras-mnist-cnn](https://summer-qing.github.io/keras/keras-mnist-cnn.html)
 
 ### Markdown
 
