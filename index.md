@@ -13,7 +13,7 @@ git add  /  git commit  /  git
 ```
 
 ### Keras Tips:
-[Task1](https://summer-qing.github.io/keras/task1.html) [Task2](https://summer-qing.github.io/keras/task2.html)
+[Task1](https://qingq-li.github.io/keras/task1.html) [Task2](https://qingq-li.github.io/keras/task2.html)
 
 
 
